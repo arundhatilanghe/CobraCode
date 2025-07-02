@@ -1,7 +1,7 @@
 # CobraCode
 # 🐍 CobraCode
 
-> A futuristic and sleek version of the classic Snake Game — built in Python with Pygame.
+> A futuristic and sleek version of the classic Snake Game — built in JAVA.
 
 ---
 
