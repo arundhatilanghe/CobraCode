@@ -1,19 +1,17 @@
-# CobraCode
 # 🐍 CobraCode
 
-> A futuristic and sleek version of the classic Snake Game — built in JAVA.
+> A sleek version of the classic Snake Game — built in JAVA.
 
 ---
 
 ## 🎮 Game Description
 
-**CobraCode** is a modern twist on the traditional Snake game, with a cool, techy neon vibe. Control the glowing Cobra, eat to grow, and avoid crashing into walls or yourself.
+**CobraCode** is a traditional Snake game, with a cool, techy vibe. Control the glowing Cobra, eat to grow, and avoid crashing into walls or yourself.
 
 ---
 
 ## 🚀 Features
 
-- Modern neon color palette
 - Responsive snake movement
 - Real-time score tracking
 - Game Over screen
